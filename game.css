@@ -1,0 +1,13 @@
+body{
+background:pink;
+}
+.login_div1{
+background:white;
+border-radius:15px;
+float: none;
+}
+.login_div2{
+background:white;
+border: radius 15px;
+float:none;
+}
